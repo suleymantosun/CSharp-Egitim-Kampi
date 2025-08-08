@@ -1,6 +1,6 @@
 # 🖥️ C# EĞİTİM KAMPI
 
-Bu repository Murat Yücedağ tarafından yayınlanan C# Eğitim Kampı boyunca yaptığım uygulamarı içermektedir
+Bu repository Murat Yücedağ tarafından yayınlanan C# Eğitim Kampı boyunca yaptığım uygulamaları içermektedir
 
 ## 🔗 Proje 1 Merhaba Dünya!
 Bu bölümde konsola yazdırma komutlarını öğrendim. Console.Write() ve Console.WriteLine() komutlarını kavradım.
